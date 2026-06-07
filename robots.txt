@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tkirti29.github.io/zendesk-test/sitemap.xml
